@@ -1,0 +1,28 @@
+
+Separate email address. Split at the @ symbol. store first part in new column
+
+Have user and admin name separated out A.C._wafrizzell_ANC with a column for A.C. and one for wafrizzell
+
+
+Compare Gedmatch matches to Ancestry maatches. Add Gedmatch ID to membename when matched. 
+Compare separated email name to admin name
+
+Compare gedmatch name to user name.
+
+
+Clean up dates (change to same format or compare different formats)
+
+Need to compare names and drop punctuation. Use fuzzy wuzzy?
+
+
+Add mom only matches
+
+Add mom and will matches
+     IF in matchlist
+          Change Will only to Mom and Will
+     Else
+          Add do matchlist
+          
+Download html pedigrees from gedmatch matches and compare to my gedcom tree.
+     Also compare against ancestry tree downloads.
+     
