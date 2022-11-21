@@ -1,24 +1,25 @@
+<!-- I need to go through these scripts. Update and create new ones. Describe what each script does -->
+
 # ancestry_python
-Python scripts for creating csv files or load a database
 
 ## Description
+Python scripts for creating csv files or load a database
 
-
-3. Table of Contents
+Table of Contents
 
 <!-- Insert Banner photo of dashboard -->
 
-4. Business Case
+Business Case
 
-5. Summarize Data Set
+Summarize Data Set
 
 <!-- Insert image of the database EER diagram -->
 
-6. Summarize Insights and Impact
+Summarize Insights and Impact
 
 ADD the questions and the answers
 
-7. Technical Details
+Technical Details
   This is the more in-depth longer version of the process
   
   A. Ask
@@ -34,4 +35,4 @@ ADD the questions and the answers
   F. Further Considerations
   
   
- 8. Credits
+ Credits
